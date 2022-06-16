@@ -1,4 +1,5 @@
-## Índice de projetos
+# 🚀 Índice de projetos
+Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão separados por módulos. Fique à vontade para explorar nossas criações.
 
 <details>
   <summary><h3>🎮 Módulo game</h3></summary>
@@ -18,7 +19,7 @@
 <br><a href="https://github.com/2022M2T5">Falconi</a>
 </details>
 
-### Time acadêmico
+## Time acadêmico
 
 Para a execução de todos os projetos há uma equipe fenomenal envolvida e aqui estão seus membros:
 
@@ -40,4 +41,4 @@ Para a execução de todos os projetos há uma equipe fenomenal envolvida e aqui
 
 
 
-#### <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">  Todos os projetos são públicos e podem ser reutilizados, sendo apenas necessária a atribuição dos autores (Conforme a licença Creative Commons - <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>)
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">  Todos os projetos são públicos e podem ser reutilizados, sendo apenas necessária a atribuição dos autores (Conforme a licença Creative Commons - <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>)
