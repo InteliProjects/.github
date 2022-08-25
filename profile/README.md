@@ -12,11 +12,11 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
 
 <details>
   <summary><h3>💻Módulo web</h3></summary>
-<a href="https://github.com/2022M2T1">Brazilians in Tech</a>
-<br><a href="https://github.com/2022M2T2">Revirar</a>
-<br><a href="https://github.com/2022M2T3">Yamaha</a>
-<br><a href="https://github.com/2022M2T4">HURB</a>
-<br><a href="https://github.com/2022M2T5">Falconi</a>
+<a href="https://github.com/2022M2T1-Inteli">Brazilians in Tech</a>
+<br><a href="https://github.com/2022M2T2-Inteli">Revirar</a>
+<br><a href="https://github.com/2022M2T3-Inteli">Yamaha</a>
+<br><a href="https://github.com/2022M2T4-Inteli">HURB</a>
+<br><a href="https://github.com/2022M2T5-Inteli">Falconi</a>
 </details>
 
 ## Time acadêmico
