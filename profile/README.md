@@ -3,11 +3,11 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
 
 <details>
   <summary><h3>🎮 Módulo game</h3></summary>
-  <a href="https://github.com/2022M1T1">Ambev</a>
-  <br><a href="https://github.com/2022M1T2">BTG Pactual</a>
-  <br><a href="https://github.com/2022M1T3">Constituição Escola</a>
-  <br><a href="https://github.com/2022M1T4">Inteli</a>
-  <br><a href="https://github.com/2022M1T5">USP</a>
+  <a href="https://github.com/2022M1T1-Inteli">Ambev</a>
+  <br><a href="https://github.com/2022M1T2-Inteli">BTG Pactual</a>
+  <br><a href="https://github.com/2022M1T3-Inteli">Constituição Escola</a>
+  <br><a href="https://github.com/2022M1T4-Inteli">Inteli</a>
+  <br><a href="https://github.com/2022M1T5-Inteli">USP</a>
 </details>
 
 <details>
