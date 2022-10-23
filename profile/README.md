@@ -24,7 +24,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
 <a href="https://github.com/2022M3T1-Inteli">Banco Pan</a>
 <br><a href="https://github.com/2022M3T2-Inteli">Everymind</a>
 <br><a href="https://github.com/2022M3T3-Inteli">Rappi</a>
-<br><a href="https://github.com/2022M3T4-Inteli">Ups Medicina</a>
+<br><a href="https://github.com/2022M3T4-Inteli">USP Medicina</a>
 <br><a href="https://github.com/2022M3T5-Inteli">TV Gazeta</a>
 </details>
 
