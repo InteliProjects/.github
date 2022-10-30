@@ -8,6 +8,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   <br><a href="https://github.com/2022M1T3-Inteli">Constituição Escola</a>
   <br><a href="https://github.com/2022M1T4-Inteli">Inteli</a>
   <br><a href="https://github.com/2022M1T5-Inteli">USP</a>
+  <br><a href="https://github.com/2022M1T6-inteli">Dell</a>
 </details>
 
 <details>
