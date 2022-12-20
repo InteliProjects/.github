@@ -21,12 +21,21 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
 </details>
 
 <details>
-  <summary><h3>🤖 Módulo Modelo Preditivo</h3></summary>
+  <summary><h3>🧠 Módulo Modelo Preditivo</h3></summary>
 <a href="https://github.com/2022M3T1-Inteli">Banco Pan</a>
 <br><a href="https://github.com/2022M3T2-Inteli">Everymind</a>
 <br><a href="https://github.com/2022M3T3-Inteli">Rappi</a>
 <br><a href="https://github.com/2022M3T4-Inteli">USP Medicina</a>
 <br><a href="https://github.com/2022M3T5-Inteli">TV Gazeta</a>
+</details>
+
+<details>
+  <summary><h3>🤖 IoT</h3></summary>
+<a href="https://github.com/2022M4T1-Inteli">IPT</a>
+<br><a href="https://github.com/2022M4T2-Inteli">Beacon School</a>
+<br><a href="https://github.com/2022M4T3-Inteli">Atech Embraer</a>
+<br><a href="https://github.com/2022M4T4-Inteli">Estapar</a>
+<br><a href="https://github.com/2022M4T5-Inteli">Gerdau</a>
 </details>
 
 ## Time acadêmico
