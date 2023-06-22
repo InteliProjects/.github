@@ -43,7 +43,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   </details>
   
   <details>
-   <summary><h4>2022.1</h4></summary>
+   <summary><h4>2022.2</h4></summary>
     <a href="https://github.com/2022M2T6-Inteli">MRV</a>
   </details>
     
@@ -99,7 +99,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
    <details>
      <summary><h4>2° Ano</h4></summary>
       <details>
-         <summary><h5>Módulo 5 - Concepção de sistema de automação industrial</h5></summary>
+         <summary><h5>Módulo 5 - Simulação de robôs para aplicações diversas</h5></summary>
         <a href="https://github.com/2023M5T2-Inteli">2023.1 - IPT</a>
       </details>
   </details>
