@@ -61,7 +61,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   <summary><h3>🧠 Módulo Modelo Preditivo</h3></summary>
 
   <details>
-   <summary><h4>2022.1</h4></summary>
+   <summary><h4>2022.2</h4></summary>
     <a href="https://github.com/2022M3T1-Inteli">Banco Pan</a>
     <br><a href="https://github.com/2022M3T2-Inteli">Everymind</a>
     <br><a href="https://github.com/2022M3T3-Inteli">Rappi</a>
@@ -70,7 +70,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   </details>
   
   <details>
-     <summary><h4>2022.2</h4></summary>
+     <summary><h4>2023.1</h4></summary>
     <a href="https://github.com/2023M3T5-Inteli">USP Medicina</a>
   </details>
 
@@ -80,7 +80,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   <summary><h3>🤖 Módulo IoT</h3></summary>
   
   <details>
-   <summary><h4>2022.1</h4></summary>
+   <summary><h4>2022.2</h4></summary>
     <a href="https://github.com/2022M4T1-Inteli">IPT</a>
     <br><a href="https://github.com/2022M4T2-Inteli">Beacon School</a>
     <br><a href="https://github.com/2022M4T3-Inteli">Atech Embraer</a>
@@ -88,7 +88,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <br><a href="https://github.com/2022M4T5-Inteli">Gerdau</a>
   </details>
   <details>
-     <summary><h4>2022.2</h4></summary>
+     <summary><h4>2023.1</h4></summary>
     <a href="https://github.com/2023M4T5-Inteli">Pirelli</a>
   </details>
 </details>
@@ -104,7 +104,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <a href="https://github.com/2023M5T1-Inteli">2023.1 - AEL Sistemas</a>
       </details>
       <details>
-         <summary><h5>Módulo 6 - Solução de alto desempenho usando grafos</h5></summary>
+         <summary><h5>Módulo 6 - Solução de problemas de otimização e pesquisa operacional</h5></summary>
         <a href="https://github.com/2023M6T1-Inteli">2023.1 - Klabin</a>
       </details>
   </details>
