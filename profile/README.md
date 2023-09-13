@@ -46,6 +46,14 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
    <summary><h4>2022.2</h4></summary>
     <a href="https://github.com/2022M2T6-Inteli">MRV</a>
   </details>
+
+  <details>
+     <summary><h4>2023.1</h4></summary>
+    <a href="https://github.com/2023M2T6-Inteli">Nova Escola</a>
+     <br><a href="https://github.com/2023M2T7-Inteli">Natura</a>
+     <br><a href="https://github.com/2023M2T8-Inteli">IPT</a>
+     <br><a href="https://github.com/2023M2T9-Inteli">Banco Pan</a>
+  </details>
     
 </details>
 
@@ -53,7 +61,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   <summary><h3>🧠 Módulo Modelo Preditivo</h3></summary>
 
   <details>
-   <summary><h4>2022.2</h4></summary>
+   <summary><h4>2022.1</h4></summary>
     <a href="https://github.com/2022M3T1-Inteli">Banco Pan</a>
     <br><a href="https://github.com/2022M3T2-Inteli">Everymind</a>
     <br><a href="https://github.com/2022M3T3-Inteli">Rappi</a>
@@ -62,7 +70,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   </details>
   
   <details>
-     <summary><h4>2023.1</h4></summary>
+     <summary><h4>2022.2</h4></summary>
     <a href="https://github.com/2023M3T5-Inteli">USP Medicina</a>
   </details>
 
@@ -72,12 +80,16 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   <summary><h3>🤖 Módulo IoT</h3></summary>
   
   <details>
-   <summary><h4>2022.2</h4></summary>
+   <summary><h4>2022.1</h4></summary>
     <a href="https://github.com/2022M4T1-Inteli">IPT</a>
     <br><a href="https://github.com/2022M4T2-Inteli">Beacon School</a>
     <br><a href="https://github.com/2022M4T3-Inteli">Atech Embraer</a>
     <br><a href="https://github.com/2022M4T4-Inteli">Estapar</a>
     <br><a href="https://github.com/2022M4T5-Inteli">Gerdau</a>
+  </details>
+  <details>
+     <summary><h4>2022.2</h4></summary>
+    <a href="https://github.com/2023M4T5-Inteli">Pirelli</a>
   </details>
 </details>
 
@@ -91,6 +103,10 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 5 - Solução de alto desempenho usando grafos</h5></summary>
         <a href="https://github.com/2023M5T1-Inteli">2023.1 - AEL Sistemas</a>
       </details>
+      <details>
+         <summary><h5>Módulo 6 - Solução de alto desempenho usando grafos</h5></summary>
+        <a href="https://github.com/2023M6T1-Inteli">2023.1 - Klabin</a>
+      </details>
   </details>
 </details>
 
@@ -99,8 +115,12 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
    <details>
      <summary><h4>2° Ano</h4></summary>
       <details>
-         <summary><h5>Módulo 5 - Simulação de robôs para aplicações diversas</h5></summary>
+         <summary><h5>Módulo 5 - Concepção de sistema de automação industrial</h5></summary>
         <a href="https://github.com/2023M5T2-Inteli">2023.1 - IPT</a>
+      </details>
+      <details>
+         <summary><h5>Módulo 6 - Simulação de robôs para aplicações diversas</h5></summary>
+        <a href="https://github.com/2023M6T2-Inteli">2023.1 - Gerdau</a>
       </details>
   </details>
 </details>
@@ -113,6 +133,10 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 5 - Desenvolvimento de serviços em cloud computing</h5></summary>
           <a href="https://github.com/2023M5T3-Inteli">2023.1 - Dell</a>
       </details>
+      <details>
+         <summary><h5>Módulo 6 - Elaboração de aplicação para dispositivos móveis</h5></summary>
+          <a href="https://github.com/2023M6T3-Inteli">2023.1 - Dell</a>
+      </details>
   </details>
 </details>
 
@@ -123,6 +147,10 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
         <summary><h5>Módulo 5 - Desenvolvimento de software descentralizado utilizando blockchain</h5></summary>
         <a href="https://github.com/2023M5T4-Inteli">2023.1 - Coover</a>
+      </details>
+      <details>
+        <summary><h5>Módulo 6 - Elaboração de aplicação utilizando processamento de linguagem natural</h5></summary>
+        <a href="https://github.com/2023M6T4-Inteli">2023.1 - BTG Pactual</a>
       </details>
   </details>
 </details>
