@@ -267,12 +267,12 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
         <summary><h5>Módulo 5 - Desenvolvimento de software descentralizado utilizando blockchain</h5></summary>
         <a href="https://github.com/2023M5T4-Inteli">2023.1 - Coover</a>
-        <a href="https://github.com/InteliProjects/2024-T0010-SI05">2024.1 - Alliance Consultoria</a>
+        <br><a href="https://github.com/InteliProjects/2024-T0010-SI05">2024.1 - Alliance Consultoria</a>
       </details>
       <details>
         <summary><h5>Módulo 6 - Elaboração de aplicação utilizando processamento de linguagem natural</h5></summary>
         <a href="https://github.com/2023M6T4-Inteli">2023.1 - BTG Pactual</a>
-        <a href="https://github.com/InteliProjects/2024-T0010-SI06">2024.2 - Uber</a>
+        <br><a href="https://github.com/InteliProjects/2024-T0010-SI06">2024.2 - Uber</a>
       </details>
       <details>
         <summary><h5>Módulo 7 - Implantação de sistemas de gestão empresarial</h5></summary>
