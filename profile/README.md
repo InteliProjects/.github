@@ -143,7 +143,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 6 - Solução de problemas de otimização e pesquisa operacional</h5></summary>
         <a href="https://github.com/2023M6T1-Inteli">2023.2 - Klabin</a>
         <br><a href="https://github.com/2023M6T5Inteli">2023.4 - V.tal</a>
-        <br><a href="https://github.com/InteliProjects/2024-T0007-CC06">2024.2 - Aegeo</a>
+        <br><a href="https://github.com/InteliProjects/2024-T0007-CC06">2024.2 - Aegea</a>
       </details>
       <details>
          <summary><h5>Módulo 7 - Aplicação escalável em sistemas distribuídos</h5></summary>
