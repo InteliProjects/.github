@@ -68,7 +68,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <a href="https://github.com/InteliProjects/2024-T0011-IN02">Parceiros Voluntários</a>
      <br><a href="https://github.com/InteliProjects/2024-1B-T12-IN02">ZUYD</a>
      <br><a href="https://github.com/InteliProjects/2024-T0013-IN02">Dell</a>
-     <br><a href="https://github.com/InteliProjects/2024-T0014-IN02">Inspa</a>
+     <br><a href="https://github.com/InteliProjects/2024-1B-T14-IN02">Inspa</a>
   </details>
     
 </details>
