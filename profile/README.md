@@ -229,7 +229,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 6 - Elaboração de aplicação para dispositivos móveis</h5></summary>
           <a href="https://github.com/2023M6T3-Inteli">2023.2 - Dell</a>
           <br><a href="https://github.com/2023M5T06-Inteli">2023.4 - SEDUC - Secretária da Educação do Estado de São Paulo</a>
-          <br><a href="https://github.com/InteliProjects/2024-T0009-ES06">2024.2 - Fundação Dom Cabral</a>
+          <br><a href="https://github.com/InteliProjects/2024-1B-T09-ES06">2024.2 - Fundação Dom Cabral</a>
       </details>
       <details>
          <summary><h5>Módulo 7 - Implantação de automação com reconhecimento de voz</h5></summary>
