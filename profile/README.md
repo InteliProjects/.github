@@ -205,7 +205,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       </details>
       <details>
          <summary><h5>Módulo 10 - Aplicações hiperescaláveis</h5></summary>
-            <a href="https://github.com/InteliProjects/2024-T0002-EC10">2024.2 - Hospital Sírio Libanês</a>
+            <a href="https://github.com/InteliProjects/2024-1B-T02-EC10">2024.2 - Hospital Sírio Libanês</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Sistema em edge computing</h5></summary>
