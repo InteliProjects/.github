@@ -239,7 +239,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 8 - Projeto de arquitetura de software</h5></summary>
           <a href="https://github.com/2023M8T3Inteli">2023.4 - Meta</a>
-          <br><a href="https://github.com/InteliProjects/2024-T0006-ES08">2024.2 - Bank Of America</a>
+          <br><a href="https://github.com/InteliProjects/2024-1B-T06-ES08">2024.2 - Bank Of America</a>
       </details>
   </details>
    <details>
