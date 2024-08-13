@@ -291,7 +291,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       </details>
       <details>
          <summary><h5>Módulo 10 - Análise comportamental de usuário em interfaces digitais</h5></summary>
-        <a href="https://github.com/InteliProjects/2024-T0004-SI10">2024.2 - Pearson</a>
+        <a href="https://github.com/InteliProjects/2024-1B-T04-SI10">2024.2 - Pearson</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Modelo preditivo em aplicações de negócios utilizando Deep Learning</h5></summary>
