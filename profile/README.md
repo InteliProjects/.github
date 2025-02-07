@@ -70,6 +70,8 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
      <br><a href="https://github.com/InteliProjects/2024-T0013-IN02">Dell</a>
      <br><a href="https://github.com/InteliProjects/2024-1B-T14-IN02">Inspa</a>
   </details>
+
+  
     
 </details>
 
@@ -98,6 +100,14 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <br><a href="https://github.com/2023M3T10-Inteli">CVM - Comissão de Valores Imobiliários</a>
   </details>
 
+  <details>
+     <summary><h4>2024.3</h4></summary>
+    <a href="https://github.com/InteliProjects/2024-2A-T13-IN03">UNIPAR</a>
+     <br><a href="https://github.com/InteliProjects/2024-2A-T11-IN03">Compass</a>
+     <br><a href="https://github.com/InteliProjects/2024-2A-T12-IN03">Rede Gazeta</a>
+     <br><a href="https://github.com/InteliProjects/2024-2A-T14-IN03">IBM</a>
+  </details>
+
 </details>
 
 <details>
@@ -124,6 +134,14 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <br><a href="https://github.com/2023M4T9Inteli">IPT - Instituto de Pesquisas Tecnológicas</a>
     <br><a href="https://github.com/2023M4T10Inteli">Atvos</a>
   </details>
+
+  <details>
+     <summary><h4>2024.4</h4></summary>
+    <a href="https://github.com/InteliProjects/2024-2B-T12-IN04">IPT</a>
+     <br><a href="https://github.com/InteliProjects/2024-2B-T14-IN04">Instituto Apontar</a>
+     <br><a href="https://github.com/InteliProjects/2024-2B-T13-IN04">Prodesp</a>
+     <br><a href="https://github.com/InteliProjects/2024-2B-T11-IN04">Abundance</a>
+  </details>
   
 </details>
 
@@ -149,11 +167,13 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 7 - Aplicação escalável em sistemas distribuídos</h5></summary>
         <a href="https://github.com/2023M7T1-Inteli">2023.3 - Stone</a>
         <br><a href="https://github.com/InteliProjects/2024-T0005-CC07">2024.1 - VIVO</a>
+        <br><a href="https://github.com/InteliProjects/2024-2A-T07-CC07">2024.3 - VIVO</a>
       </details>
       <details>
          <summary><h5>Módulo 8 - Desenvolvimento de uma IDE para um sistema embarcado</h5></summary>
         <a href="https://github.com/2023M8T1Inteli">2023.4 - AACD</a>
         <br><a href="https://github.com/InteliProjects/2024-T0005-CC08">2024.2 - FMUSP</a>
+        <br><a href="https://github.com/InteliProjects/2024-2B-T07-CC08">2024.4 - Instituto Vita</a>
       </details>
   </details>
    <details>
@@ -161,16 +181,16 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 9 - Aplicação de redes neurais artificiais em aprendizado por reforço</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0001-CC09">2024.1 - BTG Pactual</a>
+            <br><a href="https://github.com/InteliProjects/2024-2A-T05-CC09">2024.3 - BetterBeef</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Sistema de deep learning aplicado à visão computacional</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0001-CC10">2024.2 - A de Agro/Sette</a>
+            <br><a href="https://github.com/InteliProjects/2024-2B-T05-CC10">2024.4 - Minipa</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Sistema de processamento de linguagem natural com IA generativa</h5></summary>
-      </details>
-      <details>
-         <summary><h5>Módulo 12 - Tendências e atualizações</h5></summary>
+         <a href="https://github.com/InteliProjects/2024-2A-T01-CC11">2024.3 - Brastel</a>
       </details>
   </details>
 </details>
@@ -190,11 +210,13 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       </details>
       <details>
          <summary><h5>Módulo 7 - Projeto de sistema de manutenção preditiva</h5></summary>
-        <a href="https://github.com/2023M7T2-Inteli">2023.2 - Azul - Linhas Aéreas Brasileiras</a>
+        <a href="https://github.com/2023M7T2-Inteli">2023.3 - Azul - Linhas Aéreas Brasileiras</a>
+        <br><a href="https://github.com/InteliProjects/2024-2A-T08-EC07">2024.3 - Volkswagen</a>
       </details>
       <details>
          <summary><h5>Módulo 8 - Prototipação de um veículo autônomo</h5></summary>
-        <a href="https://github.com/2023M8T2-Inteli">2023.2 - Ambev</a>
+        <a href="https://github.com/2023M8T2-Inteli">2023.4 - Ambev</a>
+        <br><a href="https://github.com/InteliProjects/2024-2B-T08-EC08">2024.4 - IBM</a>
       </details>
   </details>
    <details>
@@ -209,9 +231,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       </details>
       <details>
          <summary><h5>Módulo 11 - Sistema em edge computing</h5></summary>
-      </details>
-      <details>
-         <summary><h5>Módulo 12 - Tendências e atualizações</h5></summary>
+            <a href="https://github.com/InteliProjects/2024-2A-T02-EC11">2024.3 - Abundance</a>
       </details>
   </details>
 </details>
@@ -235,11 +255,13 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 7 - Implantação de automação com reconhecimento de voz</h5></summary>
             <a href="https://github.com/2023M7T3-Inteli">2023.3 - IBM</a>
             <br><a href="https://github.com/InteliProjects/2024-T0006-ES07">2024.1 - SambaTech</a>
+            <br><a href="https://github.com/InteliProjects/2024-2A-T09-ES07">2024.3 - Bank Of America</a>
       </details>
       <details>
          <summary><h5>Módulo 8 - Projeto de arquitetura de software</h5></summary>
           <a href="https://github.com/2023M8T3Inteli">2023.4 - Meta</a>
           <br><a href="https://github.com/InteliProjects/2024-1B-T06-ES08">2024.2 - Bank Of America</a>
+          <br><a href="https://github.com/InteliProjects/2024-2B-T09-ES08">2024.4 - IPT</a>
       </details>
   </details>
    <details>
@@ -247,16 +269,16 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 9 - Testes automatizados e controle de qualidade de software</h5></summary>
          <a href="https://github.com/InteliProjects/2024-T0003-ES09">2024.1 - Track.Co</a>
+         <br><a href="https://github.com/InteliProjects/2024-2A-T06-ES09">2024.3 - Cogny</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Fluxo de entrega contínua</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0003-ES10">2024.2 - Everymind</a>
+            <br><a href="https://github.com/InteliProjects/2024-2B-T06-ES10">2024.4 - Cogny</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Estrutura e governança para análise de dados</h5></summary>
-      </details>
-      <details>
-         <summary><h5>Módulo 12 - Tendências e atualizações</h5></summary>
+         <a href="https://github.com/InteliProjects/2024-2A-T03-ES11">2024.3 - BCG</a>
       </details>
   </details>
 </details>
@@ -271,16 +293,18 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       </details>
       <details>
         <summary><h5>Módulo 6 - Elaboração de aplicação utilizando processamento de linguagem natural</h5></summary>
-        <a href="https://github.com/2023M6T4-Inteli">2023.1 - BTG Pactual</a>
+        <a href="https://github.com/2023M6T4-Inteli">2023.2 - BTG Pactual</a>
         <br><a href="https://github.com/InteliProjects/2024-1B-T10-SI06">2024.2 - Uber</a>
       </details>
       <details>
         <summary><h5>Módulo 7 - Implantação de sistemas de gestão empresarial</h5></summary>
-        <a href="https://github.com/2023M7T4-Inteli">2023.2 - G2 Tecnologia</a>
+        <a href="https://github.com/2023M7T4-Inteli">2023.3 - G2 Tecnologia</a>
+        <br><a href="https://github.com/InteliProjects/2024-2A-T10-SI07">2024.3 - G2 Tecnologia</a>
       </details>
       <details>
         <summary><h5>Módulo 8 - Integração, gerenciamento e análise de big data</h5></summary>
-        <a href="https://github.com/2023M8T4Inteli">2023.2 - Integration</a>
+        <a href="https://github.com/2023M8T4Inteli">2023.4 - Integration</a>
+        <br><a href="https://github.com/InteliProjects/2024-2B-T10-SI08">2024.4 - CPTM</a>
       </details>
   </details>
   <details>
@@ -295,12 +319,12 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       </details>
       <details>
          <summary><h5>Módulo 11 - Modelo preditivo em aplicações de negócios utilizando Deep Learning</h5></summary>
-      </details>
-      <details>
-         <summary><h5>Módulo 12 - Tendências e atualizações</h5></summary>
+         <a href="https://github.com/InteliProjects/2024-2A-T04-SI11">2024.3 - Aegea</a>
       </details>
   </details>
 </details>
+
+
 
 
 
