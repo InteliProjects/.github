@@ -279,6 +279,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 9 - Testes automatizados e controle de qualidade de software</h5></summary>
          <a href="https://github.com/InteliProjects/2024-T0003-ES09">2024.1 - Track.Co</a>
          <br><a href="https://github.com/InteliProjects/2024-2A-T06-ES09">2024.3 - Cogny</a>
+         <br><a href="https://github.com/InteliProjects/2025-1A-T09-ES09">2025.1 - Rappi</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Fluxo de entrega contínua</h5></summary>
