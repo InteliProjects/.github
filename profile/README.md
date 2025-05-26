@@ -35,6 +35,15 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
      <br><a href="https://github.com/InteliProjects/2024-T0014-IN01">Meta</a>
   </details>
 
+  <details>
+     <summary><h4>2025.1</h4></summary>
+    <a href="https://github.com/InteliProjects/2025-1A-T15-IN01">Dr. Pet</a>
+     <br><a href=" ">BTG Pactual</a>
+     <br><a href="">MARS</a>
+     <br><a href="">VIVO</a>
+     <br><a href="">Google</a>
+  </details>
+
 </details>
 
 
