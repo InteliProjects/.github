@@ -253,6 +253,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
           <a href="https://github.com/2023M5T3-Inteli">2023.1 - Dell</a>
           <br><a href="https://github.com/2023M5T06-Inteli">2023.3 - Inteli - Instituto de Tecnologia e Liderança</a>
           <br><a href="https://github.com/InteliProjects/2024-T0009-ES05">2024.1 - Gerando Falcões</a>
+          <br><a href="https://github.com/InteliProjects/2025-1A-T13-ES05">2025.1 - CPS Centro Paula Souza</a>
       </details>
       <details>
          <summary><h5>Módulo 6 - Elaboração de aplicação para dispositivos móveis</h5></summary>
