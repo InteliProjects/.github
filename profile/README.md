@@ -327,7 +327,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 9 - Relatórios e painéis de controle de dados gerenciais</h5></summary>
         <a href="https://github.com/InteliProjects/2024-T0004-SI09">2024.1 - Volkswagen</a>
-        <a href="https://github.com/InteliProjects/2025-1A-T10-SI09">2025.1 - Cia de Talentos</a>
+        <br><a href="https://github.com/InteliProjects/2025-1A-T10-SI09">2025.1 - Cia de Talentos</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Análise comportamental de usuário em interfaces digitais</h5></summary>
