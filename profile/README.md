@@ -311,6 +311,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <summary><h5>Módulo 6 - Elaboração de aplicação utilizando processamento de linguagem natural</h5></summary>
         <a href="https://github.com/2023M6T4-Inteli">2023.2 - BTG Pactual</a>
         <br><a href="https://github.com/InteliProjects/2024-1B-T10-SI06">2024.2 - Uber</a>
+        
       </details>
       <details>
         <summary><h5>Módulo 7 - Implantação de sistemas de gestão empresarial</h5></summary>
