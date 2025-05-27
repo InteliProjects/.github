@@ -192,7 +192,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 9 - Aplicação de redes neurais artificiais em aprendizado por reforço</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0001-CC09">2024.1 - BTG Pactual</a>
             <br><a href="https://github.com/InteliProjects/2024-2A-T05-CC09">2024.3 - BetterBeef</a>
-            <br><a href="https://github.com/InteliProjects/2025-1A-T07-CC09">2025.3 - Atvos</a>
+            <br><a href="https://github.com/InteliProjects/2025-1A-T07-CC09">2025.1 - Atvos</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Sistema de deep learning aplicado à visão computacional</h5></summary>
