@@ -165,6 +165,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <a href="https://github.com/2023M5T1-Inteli">2023.1 - AEL Sistemas</a>
         <br><a href="https://github.com/2023M5T5-Inteli">2023.3 - Rockwell Automation</a>
         <br><a href="https://github.com/InteliProjects/2024-T0007-CC05">2024.1 - Vale</a>
+        <br><a href="https://github.com/InteliProjects/2025-1A-T11-CC05">2025.1 - ComGás</a>
       </details>
       <details>
          <summary><h5>Módulo 6 - Solução de problemas de otimização e pesquisa operacional</h5></summary>
@@ -191,6 +192,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 9 - Aplicação de redes neurais artificiais em aprendizado por reforço</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0001-CC09">2024.1 - BTG Pactual</a>
             <br><a href="https://github.com/InteliProjects/2024-2A-T05-CC09">2024.3 - BetterBeef</a>
+            <br><a href="https://github.com/InteliProjects/2025-1A-T07-CC09">2025.3 - Atvos</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Sistema de deep learning aplicado à visão computacional</h5></summary>
@@ -200,6 +202,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 11 - Sistema de processamento de linguagem natural com IA generativa</h5></summary>
          <a href="https://github.com/InteliProjects/2024-2A-T01-CC11">2024.3 - Brastel</a>
+        <a href="https://github.com/InteliProjects/2025-1A-T05-CC11">2025.3 - Uber</a>
       </details>
   </details>
 </details>
@@ -301,6 +304,8 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <summary><h5>Módulo 5 - Desenvolvimento de software descentralizado utilizando blockchain</h5></summary>
         <a href="https://github.com/2023M5T4-Inteli">2023.1 - Coover</a>
         <br><a href="https://github.com/InteliProjects/2024-T0010-SI05">2024.1 - Alliance Consultoria</a>
+        <br><a href="https://github.com/InteliProjects/2025-1A-T14-SI05">2025.1 - Abundance</a>
+
       </details>
       <details>
         <summary><h5>Módulo 6 - Elaboração de aplicação utilizando processamento de linguagem natural</h5></summary>
@@ -323,6 +328,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 9 - Relatórios e painéis de controle de dados gerenciais</h5></summary>
         <a href="https://github.com/InteliProjects/2024-T0004-SI09">2024.1 - Volkswagen</a>
+        <a href="https://github.com/InteliProjects/2025-1A-T10-SI09">2024.1 - Cia de Talentos</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Análise comportamental de usuário em interfaces digitais</h5></summary>
