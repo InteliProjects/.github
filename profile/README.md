@@ -214,6 +214,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 5 - Concepção de sistema de automação industrial</h5></summary>
             <a href="https://github.com/2023M5T2-Inteli">2023.1 - IPT - Instituto de Pesquisas Tecnológicas</a>
             <br><a href="https://github.com/InteliProjects/2024-T0008-EC05">2024.1 - Hospital Sírio Libanês</a>
+            <br><a href="https://github.com/InteliProjects/2025-1A-T12-EC05/">2025.1 - UNICAMP</a>
       </details>
       <details>
          <summary><h5>Módulo 6 - Simulação de robôs para aplicações diversas</h5></summary>
