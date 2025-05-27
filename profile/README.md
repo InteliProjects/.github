@@ -306,7 +306,6 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <br><a href="https://github.com/InteliProjects/2024-T0010-SI05">2024.1 - Alliance Consultoria</a>
         <br><a href="https://github.com/InteliProjects/2025-1A-T14-SI05">2025.1 - Abundance</a>
 
-      </details>
       <details>
         <summary><h5>Módulo 6 - Elaboração de aplicação utilizando processamento de linguagem natural</h5></summary>
         <a href="https://github.com/2023M6T4-Inteli">2023.2 - BTG Pactual</a>
