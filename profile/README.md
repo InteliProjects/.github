@@ -214,7 +214,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 5 - Concepção de sistema de automação industrial</h5></summary>
             <a href="https://github.com/2023M5T2-Inteli">2023.1 - IPT - Instituto de Pesquisas Tecnológicas</a>
             <br><a href="https://github.com/InteliProjects/2024-T0008-EC05">2024.1 - Hospital Sírio Libanês</a>
-            <br><a href="https://github.com/InteliProjects/2025-1A-T12-EC05/">2024.1 - UNICAMP</a>
+            <br><a href="https://github.com/InteliProjects/2025-1A-T12-EC05/">2025.1 - UNICAMP</a>
       </details>
       <details>
          <summary><h5>Módulo 6 - Simulação de robôs para aplicações diversas</h5></summary>
@@ -237,7 +237,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 9 - Hiperconectividade para cidades inteligentes</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0002-EC09">2024.1 - PRODAM</a>
-            <br><a href="https://github.com/InteliProjects/2025-1A-T08-EC09/">2023.1 - PRODESP</a>
+            <br><a href="https://github.com/InteliProjects/2025-1A-T08-EC09/">2025.1 - PRODESP</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Aplicações hiperescaláveis</h5></summary>
@@ -258,7 +258,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
           <a href="https://github.com/2023M5T3-Inteli">2023.1 - Dell</a>
           <br><a href="https://github.com/2023M5T06-Inteli">2023.3 - Inteli - Instituto de Tecnologia e Liderança</a>
           <br><a href="https://github.com/InteliProjects/2024-T0009-ES05">2024.1 - Gerando Falcões</a>
-          <br><a href="https://github.com/InteliProjects/2025-1A-T13-ES05">2024.1 - CPS Centro Paula Souza</a>
+          <br><a href="https://github.com/InteliProjects/2025-1A-T13-ES05">2025.1 - CPS Centro Paula Souza</a>
       </details>
       <details>
          <summary><h5>Módulo 6 - Elaboração de aplicação para dispositivos móveis</h5></summary>
@@ -285,7 +285,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 9 - Testes automatizados e controle de qualidade de software</h5></summary>
          <a href="https://github.com/InteliProjects/2024-T0003-ES09">2024.1 - Track.Co</a>
          <br><a href="https://github.com/InteliProjects/2024-2A-T06-ES09">2024.3 - Cogny</a>
-         <br><a href="https://github.com/InteliProjects/2025-1A-T09-ES09">2023.1 - Rappi</a>
+         <br><a href="https://github.com/InteliProjects/2025-1A-T09-ES09">2025.1 - Rappi</a>
       </details>
       <details>
          <summary><h5>Módulo 10 - Fluxo de entrega contínua</h5></summary>
