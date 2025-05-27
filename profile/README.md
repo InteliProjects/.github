@@ -230,6 +230,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 8 - Prototipação de um veículo autônomo</h5></summary>
         <a href="https://github.com/2023M8T2-Inteli">2023.4 - Ambev</a>
         <br><a href="https://github.com/InteliProjects/2024-2B-T08-EC08">2024.4 - IBM</a>
+        <br><a href="https://github.com/InteliProjects/2025-1A-T08-EC09/">2025.1 - PRODESP</a>
       </details>
   </details>
    <details>
