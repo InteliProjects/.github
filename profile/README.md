@@ -295,6 +295,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 11 - Estrutura e governança para análise de dados</h5></summary>
          <a href="https://github.com/InteliProjects/2024-2A-T03-ES11">2024.3 - BCG</a>
+         <br><a href="https://github.com/InteliProjects/2025-1A-T06-ES11">2025.1 - Volkswagen</a>
       </details>
   </details>
 </details>
