@@ -80,6 +80,11 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
      <br><a href="https://github.com/InteliProjects/2024-1B-T14-IN02">Inspa</a>
   </details>
 
+ <details>
+     <summary><h4>2025.2</h4></summary>
+    <a href="https://github.com/InteliProjects/2025-1B-T19-IN02">Faculdade de Medicina da USP - Plástica</a>
+  
+  </details>
   
     
 </details>
