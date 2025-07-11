@@ -84,6 +84,8 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
      <summary><h4>2025.1</h4></summary>
     <a href="https://github.com/InteliProjects/2025-1B-T19-IN02">Faculdade de Medicina da USP - Plástica</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T17-IN02">Instituto Cactus</a>
+    <br><a href="https://github.com/InteliProjects/2025-1B-T16-IN02">IPT</a>
+
   </details>
   
 </details>
