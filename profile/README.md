@@ -224,7 +224,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 6 - Simulação de robôs para aplicações diversas</h5></summary>
         <a href="https://github.com/2023M6T2-Inteli">2023.2 - Gerdau</a>
         <br><a href="https://github.com/InteliProjects/2024-T0008-EC06">2024.2 - ATVOS</a>
-        <br><a href="https://github.com/InteliProjects/2025-1B-T12-EC06">2025.2 - IPT</a>
+        <br><a href="https://github.com/InteliProjects/2025-1B-T12-EC06">2025.1 - IPT</a>
       </details>
       <details>
          <summary><h5>Módulo 7 - Projeto de sistema de manutenção preditiva</h5></summary>
@@ -247,6 +247,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 10 - Aplicações hiperescaláveis</h5></summary>
             <a href="https://github.com/InteliProjects/2024-1B-T02-EC10">2024.2 - Hospital Sírio Libanês</a>
+            <br><a href="https://github.com/InteliProjects/2025-1B-T08-EC10">2025.1 - CPTM</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Sistema em edge computing</h5></summary>
