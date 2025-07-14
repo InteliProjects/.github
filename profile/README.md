@@ -85,6 +85,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <a href="https://github.com/InteliProjects/2025-1B-T19-IN02">Faculdade de Medicina da USP - Plástica</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T17-IN02">Instituto Cactus</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T16-IN02">IPT</a>
+    <br><a href="https://github.com/InteliProjects/2025-1B-T18-IN02">St. Paul's School</a>
 
   </details>
   
@@ -178,6 +179,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <a href="https://github.com/2023M6T1-Inteli">2023.2 - Klabin</a>
         <br><a href="https://github.com/2023M6T5Inteli">2023.4 - V.tal</a>
         <br><a href="https://github.com/InteliProjects/2024-T0007-CC06">2024.2 - Aegea</a>
+        <br><a href="https://github.com/InteliProjects/2025-1B-T11-CC06">2025.2 - Volkswagen</a>
       </details>
       <details>
          <summary><h5>Módulo 7 - Aplicação escalável em sistemas distribuídos</h5></summary>
@@ -204,6 +206,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 10 - Sistema de deep learning aplicado à visão computacional</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0001-CC10">2024.2 - A de Agro/Sette</a>
             <br><a href="https://github.com/InteliProjects/2024-2B-T05-CC10">2024.4 - Minipa</a>
+            <br><a href="https://github.com/InteliProjects/2025-1B-T07-CC10">2025.2 - BANK OF AMERICA</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Sistema de processamento de linguagem natural com IA generativa</h5></summary>
@@ -345,6 +348,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 10 - Análise comportamental de usuário em interfaces digitais</h5></summary>
         <a href="https://github.com/InteliProjects/2024-1B-T04-SI10">2024.2 - Pearson</a>
+        <br><a href="https://github.com/InteliProjects/2025-1B-T10-SI10">2025.2 - REDE GAZETA</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Modelo preditivo em aplicações de negócios utilizando Deep Learning</h5></summary>
