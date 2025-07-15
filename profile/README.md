@@ -86,6 +86,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <br><a href="https://github.com/InteliProjects/2025-1B-T17-IN02">Instituto Cactus</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T16-IN02">IPT</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T18-IN02">St. Paul's School</a>
+    <br><a href="https://github.com/InteliProjects/2025-1B-T15-IN0">Bayer</a>
 
   </details>
   
