@@ -81,7 +81,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   </details>
 
  <details>
-     <summary><h4>2025.1</h4></summary>
+     <summary><h4>2025.2</h4></summary>
     <a href="https://github.com/InteliProjects/2025-1B-T19-IN02">Faculdade de Medicina da USP - Plástica</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T17-IN02">Instituto Cactus</a>
     <br><a href="https://github.com/InteliProjects/2025-1B-T16-IN02">IPT</a>
@@ -229,7 +229,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 6 - Simulação de robôs para aplicações diversas</h5></summary>
         <a href="https://github.com/2023M6T2-Inteli">2023.2 - Gerdau</a>
         <br><a href="https://github.com/InteliProjects/2024-T0008-EC06">2024.2 - ATVOS</a>
-        <br><a href="https://github.com/InteliProjects/2025-1B-T12-EC06">2025.1 - IPT</a>
+        <br><a href="https://github.com/InteliProjects/2025-1B-T12-EC06">2025.2 - IPT</a>
       </details>
       <details>
          <summary><h5>Módulo 7 - Projeto de sistema de manutenção preditiva</h5></summary>
@@ -252,7 +252,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 10 - Aplicações hiperescaláveis</h5></summary>
             <a href="https://github.com/InteliProjects/2024-1B-T02-EC10">2024.2 - Hospital Sírio Libanês</a>
-            <br><a href="https://github.com/InteliProjects/2025-1B-T08-EC10">2025.1 - CPTM</a>
+            <br><a href="https://github.com/InteliProjects/2025-1B-T08-EC10">2025.2 - CPTM</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Sistema em edge computing</h5></summary>
@@ -276,7 +276,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
           <a href="https://github.com/2023M6T3-Inteli">2023.2 - Dell</a>
           <br><a href="https://github.com/2023M5T06-Inteli">2023.4 - SEDUC - Secretária da Educação do Estado de São Paulo</a>
           <br><a href="https://github.com/InteliProjects/2024-1B-T09-ES06">2024.2 - Fundação Dom Cabral</a>
-          <br><a href="https://github.com/InteliProjects/2025-1B-T13-ES06">2025.1 - BTG Pactual</a>
+          <br><a href="https://github.com/InteliProjects/2025-1B-T13-ES06">2025.2 - BTG Pactual</a>
       </details>
       <details>
          <summary><h5>Módulo 7 - Implantação de automação com reconhecimento de voz</h5></summary>
@@ -303,7 +303,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 10 - Fluxo de entrega contínua</h5></summary>
             <a href="https://github.com/InteliProjects/2024-T0003-ES10">2024.2 - Everymind</a>
             <br><a href="https://github.com/InteliProjects/2024-2B-T06-ES10">2024.4 - Cogny</a>
-            <br><a href="https://github.com/InteliProjects/2025-1B-T09-ES10">2025.1 - Timenow</a>
+            <br><a href="https://github.com/InteliProjects/2025-1B-T09-ES10">2025.2 - Timenow</a>
       </details>
       <details>
          <summary><h5>Módulo 11 - Estrutura e governança para análise de dados</h5></summary>
