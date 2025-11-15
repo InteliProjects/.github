@@ -125,6 +125,13 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
      <br><a href="https://github.com/InteliProjects/2024-2A-T14-IN03">IBM</a>
   </details>
 
+ <details>
+     <summary><h4>2025.3</h4></summary>
+    <a href="https://github.com/InteliProjects/2025-2A-T19-IN03">Atvos</a>
+     
+  </details>
+
+
 </details>
 
 <details>
