@@ -236,6 +236,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 7 - Projeto de sistema de manutenção preditiva</h5></summary>
         <a href="https://github.com/2023M7T2-Inteli">2023.3 - Azul - Linhas Aéreas Brasileiras</a>
         <br><a href="https://github.com/InteliProjects/2024-2A-T08-EC07">2024.3 - Volkswagen</a>
+        <br><a href="https://github.com/InteliProjects/2025-2A-T12-EC07">2025.3 - Itubombas</a>
       </details>
       <details>
          <summary><h5>Módulo 8 - Prototipação de um veículo autônomo</h5></summary>
@@ -355,6 +356,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 11 - Modelo preditivo em aplicações de negócios utilizando Deep Learning</h5></summary>
          <a href="https://github.com/InteliProjects/2024-2A-T04-SI11">2024.3 - Aegea</a>
+        <br><a href="https://github.com/InteliProjects/2025-2A-T08-EC11">2025.3 - Sauá Consultoria Ambiental</a>
       </details>
   </details>
 </details>
