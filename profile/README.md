@@ -260,8 +260,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 11 - Sistema em edge computing</h5></summary>
             <a href="https://github.com/InteliProjects/2024-2A-T02-EC11">2024.3 - Abundance</a>
             <br><a href="https://github.com/InteliProjects/2025-2A-T08-EC11">2025.3 - Sauá Consultoria Ambiental</a>
-
-      </details>
+      '      </details>
   </details>
 </details>
 <details>
