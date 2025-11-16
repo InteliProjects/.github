@@ -342,6 +342,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <summary><h5>Módulo 7 - Implantação de sistemas de gestão empresarial</h5></summary>
         <a href="https://github.com/2023M7T4-Inteli">2023.3 - G2 Tecnologia</a>
         <br><a href="https://github.com/InteliProjects/2024-2A-T10-SI07">2024.3 - G2 Tecnologia</a>
+        <br><a href="https://github.com/InteliProjects/2025-2A-T14-SI07">2025.3 - G2 Tecnologia</a>
       </details>
       <details>
         <summary><h5>Módulo 8 - Integração, gerenciamento e análise de big data</h5></summary>
