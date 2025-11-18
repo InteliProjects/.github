@@ -128,6 +128,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
  <details>
      <summary><h4>2025.3</h4></summary>
     <a href="https://github.com/InteliProjects/2025-2A-T19-IN03">Atvos</a>
+    <br><a href="https://github.com/InteliProjects/2025-2A-T17-IN03">Chilli Beans</a>
      
   </details>
 
@@ -280,6 +281,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
           <br><a href="https://github.com/2023M5T06-Inteli">2023.3 - Inteli - Instituto de Tecnologia e Liderança</a>
           <br><a href="https://github.com/InteliProjects/2024-T0009-ES05">2024.1 - Gerando Falcões</a>
           <br><a href="https://github.com/InteliProjects/2025-1A-T13-ES05">2025.1 - CPS Centro Paula Souza</a>
+          <br><a href="https://github.com/InteliProjects/2025-2A-T13-ES07">2025.3 - Comgás</a>
       </details>
       <details>
          <summary><h5>Módulo 6 - Elaboração de aplicação para dispositivos móveis</h5></summary>
@@ -319,6 +321,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 11 - Estrutura e governança para análise de dados</h5></summary>
          <a href="https://github.com/InteliProjects/2024-2A-T03-ES11">2024.3 - BCG</a>
          <br><a href="https://github.com/InteliProjects/2025-1A-T06-ES11">2025.1 - Volkswagen</a>
+         <br><a href="https://github.com/InteliProjects/2025-2A-T09-ES11">2025.3 - CESB</a>
       </details>
   </details>
 </details>
