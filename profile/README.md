@@ -130,6 +130,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <a href="https://github.com/InteliProjects/2025-2A-T19-IN03">Atvos</a>
     <br><a href="https://github.com/InteliProjects/2025-2A-T17-IN03">Chilli Beans</a>
     <br><a href="https://github.com/InteliProjects/2025-2A-T15-IN03">Universidad EAFIT</a>
+    <br><a href="https://github.com/InteliProjects/2025-2A-T16-IN03">Fadel</a>
      
   </details>
 
@@ -369,7 +370,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <details>
          <summary><h5>Módulo 11 - Modelo preditivo em aplicações de negócios utilizando Deep Learning</h5></summary>
          <a href="https://github.com/InteliProjects/2024-2A-T04-SI11">2024.3 - Aegea</a>
-         <a href="https://github.com/InteliProjects/2025-2A-T10-SI11">2025.3 - CREA SP</a>
+         <br><a href="https://github.com/InteliProjects/2025-2A-T10-SI11">2025.3 - CREA SP</a>
       </details>
   </details>
 </details>
