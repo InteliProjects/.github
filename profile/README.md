@@ -129,6 +129,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
      <summary><h4>2025.3</h4></summary>
     <a href="https://github.com/InteliProjects/2025-2A-T19-IN03">Atvos</a>
     <br><a href="https://github.com/InteliProjects/2025-2A-T17-IN03">Chilli Beans</a>
+    <br><a href=https://github.com/InteliProjects/2025-2A-T15-IN03">Universidad EAFIT</a>
      
   </details>
 
