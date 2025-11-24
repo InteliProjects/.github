@@ -224,6 +224,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
          <summary><h5>Módulo 11 - Sistema de processamento de linguagem natural com IA generativa</h5></summary>
          <a href="https://github.com/InteliProjects/2024-2A-T01-CC11">2024.3 - Brastel</a>
          <br><a href="https://github.com/InteliProjects/2025-1A-T05-CC11">2025.1 - Uber</a>
+         <br><a href="https://github.com/InteliProjects/2025-2A-T07-CC11">2025.3 - curadobia</a>
       </details>
   </details>
 </details>
