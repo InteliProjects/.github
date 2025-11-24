@@ -131,6 +131,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
     <br><a href="https://github.com/InteliProjects/2025-2A-T17-IN03">Chilli Beans</a>
     <br><a href="https://github.com/InteliProjects/2025-2A-T15-IN03">Universidad EAFIT</a>
     <br><a href="https://github.com/InteliProjects/2025-2A-T16-IN03">Fadel</a>
+    <br><a href="https://github.com/InteliProjects/2025-2A-T18-IN03">Finnet</a>
      
   </details>
 
