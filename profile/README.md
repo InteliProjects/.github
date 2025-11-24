@@ -197,6 +197,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <a href="https://github.com/2023M7T1-Inteli">2023.3 - Stone</a>
         <br><a href="https://github.com/InteliProjects/2024-T0005-CC07">2024.1 - VIVO</a>
         <br><a href="https://github.com/InteliProjects/2024-2A-T07-CC07">2024.3 - VIVO</a>
+        <br><a href="https://github.com/InteliProjects/2025-2A-T11-CC07">2025.3 - BCG</a>
       </details>
       <details>
          <summary><h5>Módulo 8 - Desenvolvimento de uma IDE para um sistema embarcado</h5></summary>
