@@ -213,6 +213,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <a href="https://github.com/2023M8T1Inteli">2023.4 - AACD</a>
         <br><a href="https://github.com/InteliProjects/2024-T0005-CC08">2024.2 - FMUSP</a>
         <br><a href="https://github.com/InteliProjects/2024-2B-T07-CC08">2024.4 - Instituto Vita</a>
+        <br><a href="https://github.com/InteliProjects/2025-2b-T11-CC08">2025.4 - Faculdade Medicina da USP - FOFITO</a>
       </details>
   </details>
    <details>
