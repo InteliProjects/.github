@@ -174,6 +174,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
   <details>
      <summary><h4>2025.4</h4></summary>
       <a href="https://github.com/InteliProjects/2025-2B-T18-IN04/tree/main">TIC Trens</a>
+      <br><a href="https://github.com/InteliProjects/2025-2B-T16-IN04">Comgás</a>
      <br><a href=""></a>
   </details>
 
