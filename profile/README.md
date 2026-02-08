@@ -176,6 +176,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
       <a href="https://github.com/InteliProjects/2025-2B-T18-IN04/tree/main">TIC Trens</a>
       <br><a href="https://github.com/InteliProjects/2025-2B-T16-IN04">Comgás</a>
      <br><a href="https://github.com/InteliProjects/2025-2B-T19-IN04/tree/main">Volkswagen (ADM Tech)</a>
+     <br><a href="https://github.com/InteliProjects/2025-2B-T17-IN04">Copel</a>
   </details>
 
   
@@ -366,6 +367,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
         <summary><h5>Módulo 8 - Integração, gerenciamento e análise de big data</h5></summary>
         <a href="https://github.com/2023M8T4Inteli">2023.4 - Integration</a>
         <br><a href="https://github.com/InteliProjects/2024-2B-T10-SI08">2024.4 - CPTM</a>
+        <br><a href="https://github.com/InteliProjects/2025-2B-T14-SI08">2024.4 - SKZ Oberle</a>
       </details>
   </details>
   <details>
