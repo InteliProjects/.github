@@ -318,6 +318,7 @@ Aqui você poderá ver todos os projetos produzidos no Inteli, estes estão sepa
           <a href="https://github.com/2023M8T3Inteli">2023.4 - Meta</a>
           <br><a href="https://github.com/InteliProjects/2024-1B-T06-ES08">2024.2 - Bank Of America</a>
           <br><a href="https://github.com/InteliProjects/2024-2B-T09-ES08">2024.4 - IPT</a>
+          <br><a href="https://github.com/InteliProjects/2025-2B-T13-ES08">2025.4 - METRO-SP</a>
       </details>
   </details>
    <details>
